@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OrderImportQuiz": {
+      "commandName": "Project",
+      "commandLineArgs": "import customers.txt orders.txt"
+    }
+  }
+}
