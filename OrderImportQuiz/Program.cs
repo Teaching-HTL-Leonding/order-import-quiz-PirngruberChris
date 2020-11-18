@@ -70,7 +70,6 @@ if (args[0] == "check" || args[0] == "full")
     
 }
 
-
 Console.WriteLine();
 
 class Customer
